@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Django
+db.sqlite3
+*.log
+
+# Environments
+env/
+venv/
+ENV/
+
+# VSCode or other IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Migrations (optional)
+**/migrations/*.pyc
+**/migrations/__pycache__/
